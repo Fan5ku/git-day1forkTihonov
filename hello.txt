@@ -3,3 +3,4 @@
 строка из main
 строка из feature-a
 строка из feature-b
+новый коммит в main
